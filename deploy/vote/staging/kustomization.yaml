@@ -23,3 +23,7 @@ commonLabels:
 commonAnnotations:
   supported-by: "Me"
 
+configMapGenerator:
+  - name: vote-options
+    env: options.env
+
