@@ -17,7 +17,7 @@ images:
 
 namespace: instavote
 
-labels:
+commonLabels:
   project: env
   env: staging
 
